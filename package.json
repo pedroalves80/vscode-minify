@@ -3,6 +3,11 @@
   "displayName": "vscode-minify",
   "description": "Minify CSS and Javascript Files",
   "version": "0.0.1",
+  "publisher": "PedroAlves1122",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroalves80/vscode-minify"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
